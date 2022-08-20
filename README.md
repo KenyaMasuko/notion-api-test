@@ -2,8 +2,7 @@
 
 ## Getting started
 
-- 開発環境を構築<br />
-  `yarn install`
+First, run the development server:
 
 - 開発環境を立てる<br />
   `yarn dev`
